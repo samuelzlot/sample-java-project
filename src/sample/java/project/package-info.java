@@ -1,5 +1,6 @@
 /**
  * An example Ant-based Java project.
- * Another comment line for git testing
+ * First comment line for git testing
+ * Second comment line for git testing
  */
 package sample.java.project;
